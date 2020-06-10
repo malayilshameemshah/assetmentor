@@ -32,8 +32,8 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  right: 100px;
-  bottom: 15px;
+  right: 10px;
+  bottom: 10px;
   z-index: 99999;
 }
 
@@ -42,8 +42,8 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: center;
   font-size: 24px;
-  width: 40px;
-  height: 40px;
+  width: 20pxx;
+  height: 20px;
   border-radius: 4px;
   background: #5846f9;
   color: #fff;
