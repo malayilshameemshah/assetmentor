@@ -440,6 +440,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 20px;
 }
 
+/* #hero h6 {
+  color: rgba(255, 255, 255, 0.8);
+  margin: 10px 0 0 0;
+  font-size: 15px;
+} */
+
 #hero .btn-get-started {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
@@ -1123,7 +1129,7 @@ section {
   font-size: 14px;
   padding: 1px 0 3px 0;
   background: #ffffff;
-  color: #5846f9);
+  color: #5846f9;
 }
 .pricing .advancedS {
   width: 200px;
